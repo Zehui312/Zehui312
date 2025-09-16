@@ -13,5 +13,4 @@ I am focusing on **Bacterial scRNA analysis**.
 
 ## 📎 Homepages
 - 🌐 [Personal Page](https://Zehui312.github.io)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/guanglan-lin-4a4440374/)  
-- 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=sYvG_qQAAAAJ)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zehui-yu-4b4086332/)  
