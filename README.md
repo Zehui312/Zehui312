@@ -1,11 +1,11 @@
 ## Hi, I'm Zehui Yu 👋
 
-<p align="center">
-I am a biomedical scientist with a research focus on <b>pathogen genomics</b>, 
-<b>computational biology</b>, and <b>data-driven analysis of infectious diseases</b>. 
+I am a biomedical scientist with a research focus on <b>pathogen genomics, 
+computational biology</b>, and <b>data-driven analysis of infectious diseases. 
 My work integrates genomics, bioinformatics, and translational research to support 
 pathogen characterization, surveillance, and biomedical research.
-</p>
+<p align="center">
+
 
 ---
 
