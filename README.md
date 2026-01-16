@@ -1,4 +1,4 @@
-## Hi, I'm Zehui Yu 👋
+## Hi, there 👋
 
 <p align="justify">
 I am a biomedical scientist with a research focus on 
