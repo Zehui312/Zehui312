@@ -33,6 +33,6 @@ My work integrates genomics, bioinformatics, and translational research to suppo
 
 - 🌍 Personal Website: [https://zehui312.github.io](https://zehui312.github.io)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/zehui-yu-4b4086332/](https://www.linkedin.com/in/zehui-yu-4b4086332/)  
-- 📄 [Google Scholar]([https://scholar.google.com/citations?hl=en&user=sYvG_qQAAAAJ) 
+- 📄 [Google Scholar](https://scholar.google.com/citations?hl=en&user=KtpXT3EAAAAJ) 
 ---
 
