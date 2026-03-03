@@ -1,7 +1,7 @@
 ## Hi, there 👋
 
 <p align="justify">
-I am a biomedical scientist with a research focus on 
+I am a postdoc with a research focus on 
 <b>pathogen genomics, computational biology</b>, and 
 <b>data-driven analysis of infectious diseases</b>. 
 My work integrates genomics, bioinformatics, and translational research to support 
@@ -15,7 +15,7 @@ pathogen characterization, surveillance, and biomedical research.
 - Pathogen genomics and comparative genomics  
 - Genome-based classification and evolutionary analysis of viruses and bacteria  
 - Bioinformatics and computational analysis of high-throughput sequencing data  
-- Single-cell and multi-omics data analysis for infectious disease research  
+- Single-cell and multi-omics data analysis for bacterial  
 - Translational applications of genomics in public health and biomedicine  
 
 ---
